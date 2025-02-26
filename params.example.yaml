@@ -1,0 +1,3 @@
+config:
+  models_path: 'C:\PATH\models\'
+  pdfs_path: 'C:\PATH\llm-practice\data\pdfs\'
